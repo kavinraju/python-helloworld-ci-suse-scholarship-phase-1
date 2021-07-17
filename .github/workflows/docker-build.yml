@@ -37,4 +37,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: kavinraju98/python-helloworld:v1.0.0
+          tags: kavinraju98/python-helloworld:v2.0.0
