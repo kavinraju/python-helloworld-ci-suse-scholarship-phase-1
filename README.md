@@ -1,0 +1,1 @@
+# python-helloworld-ci-suse-scholarship-phase-1
